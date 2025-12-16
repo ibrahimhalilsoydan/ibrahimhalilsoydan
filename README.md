@@ -30,7 +30,14 @@
 <h3 align="left">Stats:</h3>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhalilsoydan&show_icons=true&locale=en&layout=compact" alt="ibrahimhalilsoydan" />
+  <h3 align="left">Stats:</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhalilsoydan&show_icons=true&locale=en&layout=compact" alt="ibrahimhalilsoydan" />
   
+  <br/><br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsoydan&show_icons=true&locale=en&include_all_commits=true" alt="ibrahimhalilsoydan" />
+</div>
   <br/><br/>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsoydan&show_icons=true&locale=en" alt="ibrahimhalilsoydan" />
