@@ -33,5 +33,5 @@
   
   <br/><br/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsoydan&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ibrahimhalilsoydan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsoydan&show_icons=true&locale=en" alt="ibrahimhalilsoydan" />
 </div>
