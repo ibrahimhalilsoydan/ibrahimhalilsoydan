@@ -31,7 +31,8 @@
 
 <h3 align="center">Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhalilsoydan&theme=default&hide_border=true" alt="ibrahimhalilsoydan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhalilsoydan&theme=default&hide_border=true&cache_seconds=86400
+" alt="ibrahimhalilsoydan" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimhalilsoydan&show_icons=true&locale=en" alt="ibrahimhalilsoydan" height="165" />
